@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+.wrangler
+.DS_Store
+*.log
+
+# Backups locales NX Lab
+*.nxlab-backup-*
+
+# Material fuente local / archivos pesados
+media/
